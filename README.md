@@ -1,4 +1,5 @@
-[Свёрстанные вопросы и ответы](book/Java_questions.pdf) [by Victoria Demidova](https://github.com/VictoriaDemidova)
+[Свёрстанные вопросы и ответы](book/Java_questions.pdf) [by Victoria Demidova](https://github.com/VictoriaDemidova)  
+[Telegram Bot](https://web.telegram.org/#/im?p=@DevInterviewBot) [by cmmttd](https://github.com/cmmttd)
 
 # Вопросы для собеседования на Java Developer
 
@@ -102,6 +103,7 @@
 + [Каким образом передаются переменные в методы, по значению или по ссылке?](core.md#Каким-образом-передаются-переменные-в-методы-по-значению-или-по-ссылке)
 + [Расскажите про приведение типов. Что такое понижение и повышение типа?](core.md#Расскажите-про-приведение-типов-Что-такое-понижение-и-повышение-типа)
 + [Когда в приложении может быть выброшено исключение `ClassCastException`?](core.md#Когда-в-приложении-может-быть-выброшено-исключение-classcastexception)
++ [Что такое литералы?](core.md#Что-такое-литералы)
 + [Что такое _autoboxing («автоупаковка»)_ в Java и каковы правила упаковки примитивных типов в классы-обертки?](core.md#Что-такое-autoboxing-автоупаковка-в-java-и-каковы-правила-упаковки-примитивных-типов-в-классы-обертки)
 + [Какие есть особенности класса `String`?](core.md#Какие-есть-особенности-класса-string)
 + [Что такое «пул строк»?](core.md#Что-такое-пул-строк)
@@ -750,6 +752,7 @@
 + [What to ask an interviewer during a tech interview](https://hackernoon.com/what-to-ask-an-interviewer-during-a-tech-interview-865a293e548c)
 + [Spring Boot Interview Questions](https://www.baeldung.com/spring-boot-interview-questions)
 + [Top Spring Framework Interview Questions](https://www.baeldung.com/spring-interview-questions)
++ [Spring Interview Questions](https://www.interviewbit.com/spring-interview-questions/)
 
 [к оглавлению](#Вопросы-для-собеседования-на-java-developer)
 
